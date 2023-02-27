@@ -34,7 +34,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusMen}/count.svg" /></p> 
-<br>
-</div>
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A64465&height=120&section=footer"/>
